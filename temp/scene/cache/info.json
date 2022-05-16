@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M1",
+        "version": "Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_ARM64_T8101"
+    },
+    "sceneListMap": {
+        "6298037a-0419-4612-bf05-aced5f7abec1": "/Users/mason/Play1/assets/scene1.scene",
+        "dc43dda3-a000-4247-a7cc-0c5ca45fa617": "/Users/mason/Play1/assets/scene2.scene"
+    },
+    "deviceMd5": "c3139485d371e08a61536e2a366426a4"
+}

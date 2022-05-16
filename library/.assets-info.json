@@ -1,0 +1,130 @@
+{
+  "/Users/mason/Play1/assets/play.png.meta": {
+    "time": 1652597042912.1228
+  },
+  "/Users/mason/Play1/assets/play.png": {
+    "time": 1652597042891.1187,
+    "uuid": "96b67358-8019-41b5-86de-c5a950fecb15",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/Bush.png.meta": {
+    "time": 1652597220728.0637
+  },
+  "/Users/mason/Play1/assets/ground.png.meta": {
+    "time": 1652597220747.6792
+  },
+  "/Users/mason/Play1/assets/Tree.png.meta": {
+    "time": 1652597220765.628
+  },
+  "/Users/mason/Play1/assets/BG.png.meta": {
+    "time": 1652597220847.438
+  },
+  "/Users/mason/Play1/assets/Bush.png": {
+    "time": 1652597220692.526,
+    "uuid": "502f8844-5f5c-484a-9bc1-9185ec807d3e",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/ground.png": {
+    "time": 1652597220692.569,
+    "uuid": "9f5f87d5-2bef-492c-830f-1194dda0d432",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/Tree.png": {
+    "time": 1652597220692.704,
+    "uuid": "2399fbfb-31d8-4eff-8eee-3612d754ff8c",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/BG.png": {
+    "time": 1652597220693.0542,
+    "uuid": "3e9f960b-f024-47af-a8aa-c7ed3d782c3f",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/Zombie.png.meta": {
+    "time": 1652604384587.2275
+  },
+  "/Users/mason/Play1/assets/Zombie.png": {
+    "time": 1652604379198.264,
+    "uuid": "cb5c7d85-6262-437f-9e0d-08a8dcd875e2",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts.meta": {
+    "time": 1652604491548.4897
+  },
+  "/Users/mason/Play1/assets/scripts": {
+    "time": 1652612846501.1353,
+    "uuid": "c22be697-80da-4872-9e1e-2e9a97701f7e",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/movement.ts.meta": {
+    "time": 1652604521372.2498
+  },
+  "/Users/mason/Play1/assets/scripts/movement.ts": {
+    "time": 1652605651643.4731,
+    "uuid": "aaf9b2f7-f081-4001-8bb7-20056bb8a38c",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/mouse.ts.meta": {
+    "time": 1652605738238.6765
+  },
+  "/Users/mason/Play1/assets/scripts/mouse.ts": {
+    "time": 1652610810518.4028,
+    "uuid": "832ad6b3-a6ab-4dd2-8d83-d98b8fdfe5b6",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/Touchinput.ts.meta": {
+    "time": 1652610923345.5571
+  },
+  "/Users/mason/Play1/assets/scripts/Touchinput.ts": {
+    "time": 1652611195711.2417,
+    "uuid": "16707b00-89be-4278-a948-8614f141cfec",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/Keyboard.ts.meta": {
+    "time": 1652611794441.1812
+  },
+  "/Users/mason/Play1/assets/scripts/Keyboard.ts": {
+    "time": 1652611794372.3113,
+    "uuid": "59e13685-6e18-4b21-925f-9d333de83660",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/changeScene.ts.meta": {
+    "time": 1652612363035.3157
+  },
+  "/Users/mason/Play1/assets/scripts/changeScene.ts": {
+    "time": 1652612362949.7827,
+    "uuid": "a933e44b-4cf0-4cd8-b339-f70c4bcd5fda",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/ExampleScene.scene.meta": {
+    "time": 1652597581063.6216
+  },
+  "/Users/mason/Play1/assets/ExampleScene.scene": {
+    "time": 1652612635972.742,
+    "uuid": "6298037a-0419-4612-bf05-aced5f7abec1",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/NewScene.scene.meta": {
+    "time": 1652597823121.7437
+  },
+  "/Users/mason/Play1/assets/NewScene.scene": {
+    "time": 1652613436795.7534,
+    "uuid": "dc43dda3-a000-4247-a7cc-0c5ca45fa617",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/buttonSwitch.ts.meta": {
+    "time": 1652612660368.4998
+  },
+  "/Users/mason/Play1/assets/scripts/buttonSwitch.ts": {
+    "time": 1652612660278.0674,
+    "uuid": "10d2efc1-49f9-4a4e-aaf4-151f3b29d8f5",
+    "missing": false
+  },
+  "/Users/mason/Play1/assets/scripts/PauseResume.ts.meta": {
+    "time": 1652612846506.2644
+  },
+  "/Users/mason/Play1/assets/scripts/PauseResume.ts": {
+    "time": 1652612846480.4465,
+    "uuid": "777ad2e5-c156-4271-ad40-9f0cddfc478c",
+    "missing": false
+  }
+}

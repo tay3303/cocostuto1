@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zombie",
+    "atlas": "",
+    "rect": {
+      "x": 73,
+      "y": 52,
+      "width": 268,
+      "height": 455
+    },
+    "offset": {
+      "x": -8,
+      "y": -20
+    },
+    "originalSize": {
+      "width": 430,
+      "height": 519
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "cb5c7d85-6262-437f-9e0d-08a8dcd875e2@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,2137 @@
+2022-05-15T06:43:29.910Z - log: [Package] menu@1.0.0 enable
+2022-05-15T06:43:29.911Z - log: [Package] profile@1.0.0 enable
+2022-05-15T06:43:29.916Z - log: [Package] project@1.0.2 enable
+2022-05-15T06:43:29.919Z - log: [Package] messages@1.0.0 enable
+2022-05-15T06:43:29.921Z - log: [Package] program@1.0.0 enable
+2022-05-15T06:43:29.924Z - log: [Package] tester@1.0.0 enable
+2022-05-15T06:43:29.927Z - log: [Package] preferences@1.0.0 enable
+2022-05-15T06:43:30.263Z - log: Setup mods mgr.: 169.92ms
+2022-05-15T06:43:30.264Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-05-15T06:43:30.269Z - verbose: [Engine] QuickCompile engine (310ms)
+2022-05-15T06:43:30.271Z - log: [Package] engine@1.0.6 enable
+2022-05-15T06:43:30.818Z - log: [Package] programming@1.0.0 enable
+2022-05-15T06:43:31.088Z - log: [Package] device@1.0.1 enable
+2022-05-15T06:43:31.117Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-15T06:43:31.142Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-15T06:43:31.189Z - log: [Package] asset-db@1.0.0 enable
+2022-05-15T06:43:31.219Z - log: [Package] scene@1.0.0 enable
+2022-05-15T06:43:31.356Z - log: [Package] server@1.0.0 enable
+2022-05-15T06:43:31.381Z - log: [Package] utils@1.0.0 enable
+2022-05-15T06:43:33.457Z - log: [Package] preview@1.0.1 enable
+2022-05-15T06:43:33.497Z - log: [Package] animator@1.0.0 enable
+2022-05-15T06:43:34.085Z - log: Profile changed: builder (log.level: 4)
+2022-05-15T06:43:34.090Z - log: [Package] builder@1.3.2 enable
+2022-05-15T06:43:34.120Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-15T06:43:34.149Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-15T06:43:34.172Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-15T06:43:34.199Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-15T06:43:34.226Z - log: [Package] about@1.0.0 enable
+2022-05-15T06:43:34.256Z - log: [Package] assets@1.0.0 enable
+2022-05-15T06:43:34.283Z - log: [Package] console@1.0.0 enable
+2022-05-15T06:43:34.397Z - log: [Package] extension@3.0.16 enable
+2022-05-15T06:43:34.423Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-15T06:43:34.458Z - log: [Package] inspector@1.0.0 enable
+2022-05-15T06:43:34.485Z - log: [Package] lightmap@1.0.4 enable
+2022-05-15T06:43:34.522Z - log: [Package] node-library@1.0.1 enable
+2022-05-15T06:43:34.541Z - verbose: [AssetDB] Require engine code (681ms)
+2022-05-15T06:43:34.544Z - log: [Package] package-asset@1.0.0 enable
+2022-05-15T06:43:34.573Z - log: [Package] process@1.0.0 enable
+2022-05-15T06:43:34.606Z - log: [Package] reference-image@1.0.0 enable
+2022-05-15T06:43:34.634Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-15T06:43:34.659Z - log: [Package] android@1.0.0 enable
+2022-05-15T06:43:34.686Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-15T06:43:34.711Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-15T06:43:34.738Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-15T06:43:34.763Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-15T06:43:34.790Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-15T06:43:34.962Z - log: [Package] ios@1.0.0 enable
+2022-05-15T06:43:34.989Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-15T06:43:35.012Z - log: [Package] link-sure@1.0.0 enable
+2022-05-15T06:43:35.036Z - log: [Package] linux@1.0.0 enable
+2022-05-15T06:43:35.062Z - log: [Package] mac@1.0.0 enable
+2022-05-15T06:43:35.142Z - log: [Package] native@1.0.0 enable
+2022-05-15T06:43:35.169Z - log: [Package] ohos@1.0.0 enable
+2022-05-15T06:43:35.196Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-15T06:43:35.223Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-15T06:43:35.249Z - log: [Package] qtt@1.0.0 enable
+2022-05-15T06:43:35.272Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-15T06:43:35.302Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-15T06:43:35.333Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-15T06:43:35.364Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-15T06:43:35.387Z - log: [Package] windows@1.0.0 enable
+2022-05-15T06:43:35.414Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-15T06:43:35.585Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-15T06:43:35.620Z - log: [Package] importer@1.0.0 enable
+2022-05-15T06:43:35.796Z - log: [Im-plugin] Check im-plugin version.
+2022-05-15T06:43:35.806Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-15T06:43:39.052Z - verbose: [Scene] Require engine code (0ms)
+2022-05-15T06:43:39.052Z - verbose: [Scene] Startup engine (0ms)
+2022-05-15T06:43:39.071Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-15T06:43:39.217Z - verbose: [Scene] Open engine (165ms)
+2022-05-15T06:43:39.218Z - verbose: [Scene] Configure engine (0ms)
+2022-05-15T06:43:39.105Z - info: [Scene] Forward render pipeline initialized.
+2022-05-15T06:43:39.912Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-15T06:53:01.147Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-05-15T06:53:01.152Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-05-15T07:00:33.917Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at AssetDump.decode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/types/asset-dump.ccc:1:1018)
+    at _decodeByType (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:4284)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:5801)
+2022-05-15T07:00:33.920Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at SkyboxInfo.set useHDR [as useHDR] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156143:19)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6581)
+    at async decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6527)
+2022-05-15T07:00:33.920Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at AssetDump.decode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/types/asset-dump.ccc:1:1018)
+    at _decodeByType (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:4284)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:5801)
+2022-05-15T07:08:00.809Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at SkyboxInfo.set useHDR [as useHDR] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156143:19)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6581)
+    at async decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6527)
+2022-05-15T07:08:00.809Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at AssetDump.decode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/types/asset-dump.ccc:1:1018)
+    at _decodeByType (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:4284)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:5801)
+2022-05-15T07:08:00.810Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at SkyboxInfo.set useHDR [as useHDR] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156143:19)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6581)
+    at async decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:6527)
+2022-05-15T07:08:00.810Z - warn: [Scene] Can not find environment map, disable IBL lightingError: [Scene] Can not find environment map, disable IBL lighting
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at SkyboxInfo.set envmap (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:156190:25)
+    at SkyboxInfo.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/asset/asset-watcher.ccc:1:1222)
+    at AssetDump.decode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/types/asset-dump.ccc:1:1018)
+    at _decodeByType (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:4284)
+    at decodePatch (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/utils/dump/decode.ccc:1:5801)
+2022-05-15T09:16:34.206Z - log: 16:16:33 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+16:16:33 [DEBUG]: FRAME SCALE = 1.00
+16:16:33 [DEBUG]: Project Config:
+16:16:33 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+16:16:33 [DEBUG]:     writable path: $(PROJDIR)/
+16:16:33 [DEBUG]:     script file: $(PROJDIR)/main.js
+16:16:33 [DEBUG]:     frame size: 667 x 375
+16:16:33 [DEBUG]:     frame scale: 1.00
+16:16:33 [DEBUG]:     show console: NO
+16:16:33 [DEBUG]:     write debug log: NO ()
+16:16:33 [DEBUG]:     listen: 
+16:16:33 [DEBUG]:     debugger: none
+16:16:33 [DEBUG]:     add searching path:
+16:16:33 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T09:16:34.238Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T09:16:34.245Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T09:16:34.246Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T09:16:34.341Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T09:16:34.341Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T09:16:34.718Z - log: Debugger attached.
+
+2022-05-15T09:16:51.276Z - log: 16:16:50 [DEBUG]: In the constructor of HttpClient!
+16:16:50 [DEBUG]: iShow!
+XMLHttpRequest_finalize, 0x7f91aa92dc00 ... 
+
+2022-05-15T09:16:51.370Z - log: JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T09:16:51.443Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T09:16:51.482Z - log: 16:16:51 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+16:16:51 [INFO]: Device validator enabled.
+16:16:51 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T09:16:51.685Z - log: XMLHttpRequest_finalize, 0x7f91aaa3a7e0 ... 
+XMLHttpRequest_finalize, 0x7f91a9782430 ... 
+XMLHttpRequest_finalize, 0x7f91a972eff0 ... 
+
+2022-05-15T09:16:51.810Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T09:16:51.867Z - log: JS: Success to load scene
+
+2022-05-15T09:16:51.867Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:51.888Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.189Z - log: 16:16:52 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+16:16:52 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+16:16:52 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+16:16:52 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+16:16:52 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+16:16:52 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+16:16:52 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+16:16:52 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+16:16:52 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+16:16:52 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+16:16:52 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+16:16:52 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+16:16:52 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+16:16:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+16:16:52 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+16:16:52 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+16:16:52 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+16:16:52 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+16:16:52 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+16:16:52 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+16:16:52 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+16:16:53 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+16:16:53 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+16:16:53 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+16:16:53 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.206Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.223Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.239Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.255Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.272Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.288Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:16:53.305Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T09:17:25.010Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 640, all objects: 934
+
+2022-05-15T09:17:25.022Z - log: XMLHttpRequest_finalize, 0x7f91aa82faf0 ... 
+XMLHttpRequest_finalize, 0x7f91aa98a040 ... 
+XMLHttpRequest_finalize, 0x7f91aaa3a7e0 ... 
+XMLHttpRequest_finalize, 0x7f91aa83adb0 ... 
+XMLHttpRequest_finalize, 0x7f91aaa3c9b0 ... 
+XMLHttpRequest_finalize, 0x7f91a972eff0 ... 
+XMLHttpRequest_finalize, 0x7f91aaa3cf10 ... 
+XMLHttpRequest_finalize, 0x7f91aaa4d870 ... 
+XMLHttpRequest_finalize, 0x7f91a97b9bc0 ... 
+XMLHttpRequest_finalize, 0x7f91aaa5cfe0 ... 
+XMLHttpRequest_finalize, 0x7f91a97c92a0 ... 
+XMLHttpRequest_finalize, 0x7f91aa988740 ... 
+XMLHttpRequest_finalize, 0x7f91a97c8a90 ... 
+XMLHttpRequest_finalize, 0x7f91a97e79b0 ... 
+XMLHttpRequest_finalize, 0x7f91a97e7490 ... 
+XMLHttpRequest_finalize, 0x7f91a9781d60 ... 
+
+2022-05-15T09:17:25.023Z - log: GC end ..., (js->native map) size: 624, all objects: 934
+
+2022-05-15T09:17:25.023Z - log: GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T09:17:25.035Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T09:17:25.039Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T09:17:25.046Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:15:50.997Z - log: 17:15:50 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:15:50 [DEBUG]: FRAME SCALE = 1.00
+17:15:50 [DEBUG]: Project Config:
+17:15:50 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:15:50 [DEBUG]:     writable path: $(PROJDIR)/
+17:15:50 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:15:50 [DEBUG]:     frame size: 667 x 375
+17:15:50 [DEBUG]:     frame scale: 1.00
+17:15:50 [DEBUG]:     show console: NO
+17:15:50 [DEBUG]:     write debug log: NO ()
+17:15:50 [DEBUG]:     listen: 
+17:15:50 [DEBUG]:     debugger: none
+17:15:50 [DEBUG]:     add searching path:
+17:15:50 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:15:51.050Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:15:51.055Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:15:51.056Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:15:51.110Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:15:51.110Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:15:51.480Z - log: Debugger attached.
+
+2022-05-15T10:16:19.066Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:16:19.066Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:16:20.364Z - log: 17:16:20 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 779.00
+17:16:20 [DEBUG]: FRAME SCALE = 1.00
+17:16:20 [DEBUG]: Project Config:
+17:16:20 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:16:20 [DEBUG]:     writable path: $(PROJDIR)/
+17:16:20 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:16:20 [DEBUG]:     frame size: 667 x 375
+17:16:20 [DEBUG]:     frame scale: 1.00
+17:16:20 [DEBUG]:     show console: NO
+17:16:20 [DEBUG]:     write debug log: NO ()
+17:16:20 [DEBUG]:     listen: 
+17:16:20 [DEBUG]:     debugger: none
+17:16:20 [DEBUG]:     add searching path:
+17:16:20 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:16:20.403Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:16:20.408Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:16:20.408Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:16:49.351Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:16:49.351Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:16:49.592Z - log: 17:16:49 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:16:49 [DEBUG]: FRAME SCALE = 1.00
+17:16:49 [DEBUG]: Project Config:
+17:16:49 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:16:49 [DEBUG]:     writable path: $(PROJDIR)/
+17:16:49 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:16:49 [DEBUG]:     frame size: 667 x 375
+17:16:49 [DEBUG]:     frame scale: 1.00
+17:16:49 [DEBUG]:     show console: NO
+17:16:49 [DEBUG]:     write debug log: NO ()
+17:16:49 [DEBUG]:     listen: 
+17:16:49 [DEBUG]:     debugger: none
+17:16:49 [DEBUG]:     add searching path:
+17:16:49 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:16:49.703Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:16:49.708Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:16:49.708Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:16:49.954Z - log: Debugger attached.
+
+2022-05-15T10:16:57.198Z - log: 17:16:56 [DEBUG]: In the constructor of HttpClient!
+17:16:56 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:16:57.255Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:16:57.304Z - log: 17:16:57 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:16:57 [INFO]: Device validator enabled.
+17:16:57 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:16:57.675Z - log: XMLHttpRequest_finalize, 0x7fc5e6741ca0 ... 
+XMLHttpRequest_finalize, 0x7fc5e8a22430 ... 
+XMLHttpRequest_finalize, 0x7fc5e67247e0 ... 
+XMLHttpRequest_finalize, 0x7fc5e8823fa0 ... 
+
+2022-05-15T10:16:57.807Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:16:57.861Z - log: JS: Success to load scene
+
+2022-05-15T10:16:57.861Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:57.882Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.300Z - log: 17:16:58 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:16:58 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:16:58 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:16:58 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:16:58 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:16:58 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:16:58 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:16:58 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:16:58 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:16:58 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:16:58 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:16:58 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:16:58 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:16:58 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:16:58 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:16:58 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:16:58 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:16:58 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:16:58 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:16:58 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:16:58 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:16:58 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:16:58 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:16:58 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:16:58 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.317Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.333Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.349Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.366Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.383Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.400Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:16:58.416Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:17:38.237Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 640, all objects: 934
+
+2022-05-15T10:17:38.248Z - log: XMLHttpRequest_finalize, 0x7fc5e8a58f80 ... 
+XMLHttpRequest_finalize, 0x7fc5e89665b0 ... 
+XMLHttpRequest_finalize, 0x7fc5e89a4ec0 ... 
+XMLHttpRequest_finalize, 0x7fc5e8823fa0 ... 
+XMLHttpRequest_finalize, 0x7fc5e89bef80 ... 
+XMLHttpRequest_finalize, 0x7fc5e8842a70 ... 
+XMLHttpRequest_finalize, 0x7fc5e67247e0 ... 
+XMLHttpRequest_finalize, 0x7fc5e6750f10 ... 
+XMLHttpRequest_finalize, 0x7fc5e8a22430 ... 
+XMLHttpRequest_finalize, 0x7fc5e885b140 ... 
+XMLHttpRequest_finalize, 0x7fc5e67609e0 ... 
+XMLHttpRequest_finalize, 0x7fc5e885a8c0 ... 
+XMLHttpRequest_finalize, 0x7fc5e6760720 ... 
+XMLHttpRequest_finalize, 0x7fc5e89bf5e0 ... 
+XMLHttpRequest_finalize, 0x7fc5e8a73b40 ... 
+XMLHttpRequest_finalize, 0x7fc5e8a22b00 ... 
+
+2022-05-15T10:17:38.249Z - log: GC end ..., (js->native map) size: 624, all objects: 934
+
+2022-05-15T10:17:38.249Z - log: GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:17:38.261Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:17:38.265Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:17:38.276Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:23:47.735Z - log: 17:23:47 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:23:47 [DEBUG]: FRAME SCALE = 1.00
+17:23:47 [DEBUG]: Project Config:
+17:23:47 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:23:47 [DEBUG]:     writable path: $(PROJDIR)/
+17:23:47 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:23:47 [DEBUG]:     frame size: 667 x 375
+17:23:47 [DEBUG]:     frame scale: 1.00
+17:23:47 [DEBUG]:     show console: NO
+17:23:47 [DEBUG]:     write debug log: NO ()
+17:23:47 [DEBUG]:     listen: 
+17:23:47 [DEBUG]:     debugger: none
+17:23:47 [DEBUG]:     add searching path:
+17:23:47 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:23:47.779Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:23:47.783Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:23:47.784Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:23:47.868Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:23:47.868Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:23:48.326Z - log: Debugger attached.
+
+2022-05-15T10:23:52.034Z - log: 17:23:51 [DEBUG]: In the constructor of HttpClient!
+17:23:51 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:23:52.096Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:23:52.143Z - log: 17:23:52 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:23:52 [INFO]: Device validator enabled.
+17:23:52 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:23:52.330Z - log: XMLHttpRequest_finalize, 0x7fe5cda21ca0 ... 
+XMLHttpRequest_finalize, 0x7fe5cda256d0 ... 
+XMLHttpRequest_finalize, 0x7fe5cd81a270 ... 
+XMLHttpRequest_finalize, 0x7fe5cda16800 ... 
+
+2022-05-15T10:23:52.453Z - error: libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:23:52.453Z - error: libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:23:52.511Z - log: JS: Success to load scene
+
+2022-05-15T10:23:52.511Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:23:52.532Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:23:53.399Z - log: 17:23:52 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:23:52 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:23:52 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:23:52 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:23:52 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:23:52 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:23:52 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:23:52 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:23:52 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:23:52 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:23:52 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:23:52 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:23:52 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:23:52 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:23:52 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:23:52 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:23:52 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:23:52 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:23:52 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:23:52 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:23:52 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:23:52 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:23:52 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:23:52 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:23:52 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:24:17.077Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 654, all objects: 948
+
+2022-05-15T10:24:17.091Z - log: XMLHttpRequest_finalize, 0x7fe5cc772dc0 ... 
+XMLHttpRequest_finalize, 0x7fe5cda21ca0 ... 
+XMLHttpRequest_finalize, 0x7fe5cc784d10 ... 
+XMLHttpRequest_finalize, 0x7fe5cda16800 ... 
+XMLHttpRequest_finalize, 0x7fe5cda22fe0 ... 
+XMLHttpRequest_finalize, 0x7fe5cda28ce0 ... 
+XMLHttpRequest_finalize, 0x7fe5cc785940 ... 
+XMLHttpRequest_finalize, 0x7fe5cd939d40 ... 
+XMLHttpRequest_finalize, 0x7fe5cd939fc0 ... 
+XMLHttpRequest_finalize, 0x7fe5cd81a270 ... 
+XMLHttpRequest_finalize, 0x7fe5cda36840 ... 
+XMLHttpRequest_finalize, 0x7fe5cd8c6fc0 ... 
+XMLHttpRequest_finalize, 0x7fe5cd8d6000 ... 
+
+2022-05-15T10:24:17.092Z - log: XMLHttpRequest_finalize, 0x7fe5cd8c6560 ... 
+XMLHttpRequest_finalize, 0x7fe5cda36ac0 ... 
+XMLHttpRequest_finalize, 0x7fe5cda25000 ... 
+GC end ..., (js->native map) size: 624, all objects: 934
+
+2022-05-15T10:24:17.092Z - log: GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:24:17.101Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:24:17.105Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:24:17.114Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:27:29.466Z - log: 17:27:29 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:27:29 [DEBUG]: FRAME SCALE = 1.00
+17:27:29 [DEBUG]: Project Config:
+17:27:29 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:27:29 [DEBUG]:     writable path: $(PROJDIR)/
+17:27:29 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:27:29 [DEBUG]:     frame size: 667 x 375
+17:27:29 [DEBUG]:     frame scale: 1.00
+17:27:29 [DEBUG]:     show console: NO
+17:27:29 [DEBUG]:     write debug log: NO ()
+17:27:29 [DEBUG]:     listen: 
+17:27:29 [DEBUG]:     debugger: none
+17:27:29 [DEBUG]:     add searching path:
+17:27:29 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:27:29.511Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:27:29.516Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:27:29.516Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:27:29.812Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:27:29.813Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:27:30.217Z - log: Debugger attached.
+
+2022-05-15T10:27:33.297Z - log: 17:27:32 [DEBUG]: In the constructor of HttpClient!
+17:27:32 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:27:33.348Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:27:33.384Z - log: 17:27:33 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:27:33 [INFO]: Device validator enabled.
+17:27:33 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:27:33.545Z - log: XMLHttpRequest_finalize, 0x7f8a808677c0 ... 
+XMLHttpRequest_finalize, 0x7f8a8092d240 ... 
+XMLHttpRequest_finalize, 0x7f8a8081bbc0 ... 
+XMLHttpRequest_finalize, 0x7f8a808313c0 ... 
+
+2022-05-15T10:27:33.678Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:27:33.734Z - log: JS: Success to load scene
+
+2022-05-15T10:27:33.735Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:33.758Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.142Z - log: 17:27:33 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:27:33 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:27:33 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:27:33 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:27:33 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:27:33 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:27:33 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:27:33 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:27:33 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:27:33 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:27:33 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:27:33 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:27:33 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:27:33 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:27:33 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:27:33 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:27:34 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:27:34 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:27:34 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:27:34 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:27:34 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:27:34 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:27:34 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:27:34 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:27:34 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:27:34 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:27:34 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:27:34 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:27:34 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:27:34 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.158Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.175Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.192Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.208Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.225Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.242Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:27:34.258Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:28:09.796Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 640, all objects: 934
+
+2022-05-15T10:28:09.812Z - log: XMLHttpRequest_finalize, 0x7f8a8087be90 ... 
+XMLHttpRequest_finalize, 0x7f8a8092d240 ... 
+XMLHttpRequest_finalize, 0x7f8a8093d890 ... 
+XMLHttpRequest_finalize, 0x7f8a8093e110 ... 
+XMLHttpRequest_finalize, 0x7f8a8093e500 ... 
+XMLHttpRequest_finalize, 0x7f8a8093e8f0 ... 
+XMLHttpRequest_finalize, 0x7f8a8094d8b0 ... 
+XMLHttpRequest_finalize, 0x7f8a7ef9db00 ... 
+XMLHttpRequest_finalize, 0x7f8a8095cab0 ... 
+
+2022-05-15T10:28:09.812Z - log: XMLHttpRequest_finalize, 0x7f8a8081bbc0 ... 
+XMLHttpRequest_finalize, 0x7f8a8096c090 ... 
+XMLHttpRequest_finalize, 0x7f8a7efb0c40 ... 
+XMLHttpRequest_finalize, 0x7f8a7efbf990 ... 
+XMLHttpRequest_finalize, 0x7f8a7efce480 ... 
+XMLHttpRequest_finalize, 0x7f8a7efcecd0 ... 
+XMLHttpRequest_finalize, 0x7f8a8092d910 ... 
+GC end ..., (js->native map) size: 624, all objects: 934
+
+2022-05-15T10:28:09.813Z - log: GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:28:09.821Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:28:09.825Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:28:09.838Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:42:51.780Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:42:51.781Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:42:52.662Z - log: 17:42:52 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:42:52 [DEBUG]: FRAME SCALE = 1.00
+17:42:52 [DEBUG]: Project Config:
+17:42:52 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:42:52 [DEBUG]:     writable path: $(PROJDIR)/
+17:42:52 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:42:52 [DEBUG]:     frame size: 667 x 375
+17:42:52 [DEBUG]:     frame scale: 1.00
+17:42:52 [DEBUG]:     show console: NO
+17:42:52 [DEBUG]:     write debug log: NO ()
+17:42:52 [DEBUG]:     listen: 
+17:42:52 [DEBUG]:     debugger: none
+17:42:52 [DEBUG]:     add searching path:
+17:42:52 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:42:52.719Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:42:52.722Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:42:52.723Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:42:57.435Z - log: Debugger attached.
+
+2022-05-15T10:42:59.663Z - log: 17:42:59 [DEBUG]: In the constructor of HttpClient!
+17:42:59 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:42:59.721Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:42:59.792Z - log: 17:42:59 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:42:59 [INFO]: Device validator enabled.
+17:42:59 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:43:00.131Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:43:00.771Z - log: JS: Success to load scene
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+17:43:00 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:43:00 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:43:00 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:43:00 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:43:00 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:43:00 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:43:00 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:43:00 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:43:00 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:43:00 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:43:00 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:43:00 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:43:00 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:43:00 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:43:00 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:43:00 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:43:00 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:43:00 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:43:00 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:43:00 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:43:00 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:43:00 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:43:00 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:43:00 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:43:00 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:43:00.778Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:43:08.268Z - log: XMLHttpRequest_finalize, 0x7f860816d970 ... 
+XMLHttpRequest_finalize, 0x7f8608178910 ... 
+XMLHttpRequest_finalize, 0x7f8606f69780 ... 
+XMLHttpRequest_finalize, 0x7f8606f69f50 ... 
+XMLHttpRequest_finalize, 0x7f8606f670b0 ... 
+XMLHttpRequest_finalize, 0x7f860822e440 ... 
+XMLHttpRequest_finalize, 0x7f8608178fe0 ... 
+XMLHttpRequest_finalize, 0x7f8606f694d0 ... 
+XMLHttpRequest_finalize, 0x7f8606f798a0 ... 
+XMLHttpRequest_finalize, 0x7f8608247d90 ... 
+XMLHttpRequest_finalize, 0x7f8606f887a0 ... 
+XMLHttpRequest_finalize, 0x7f8608248440 ... 
+XMLHttpRequest_finalize, 0x7f86082661d0 ... 
+XMLHttpRequest_finalize, 0x7f8606f97960 ... 
+XMLHttpRequest_finalize, 0x7f860817f470 ... 
+XMLHttpRequest_finalize, 0x7f860822d7a0 ... 
+XMLHttpRequest_finalize, 0x7f8606f465e0 ... 
+XMLHttpRequest_finalize, 0x7f8606f46cb0 ... 
+XMLHttpRequest_finalize, 0x7f8606f47380 ... 
+XMLHttpRequest_finalize, 0x7f8608037740 ... 
+XMLHttpRequest_finalize, 0x7f8608122b20 ... 
+
+2022-05-15T10:46:22.591Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:46:22.634Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:46:22.634Z - log: GC begin ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:46:22.647Z - log: GC end ..., (js->native map) size: 624, all objects: 918
+
+2022-05-15T10:46:22.689Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:46:22.704Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:48:38.399Z - log: 17:48:38 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:48:38 [DEBUG]: FRAME SCALE = 1.00
+17:48:38 [DEBUG]: Project Config:
+17:48:38 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:48:38 [DEBUG]:     writable path: $(PROJDIR)/
+17:48:38 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:48:38 [DEBUG]:     frame size: 667 x 375
+17:48:38 [DEBUG]:     frame scale: 1.00
+17:48:38 [DEBUG]:     show console: NO
+17:48:38 [DEBUG]:     write debug log: NO ()
+17:48:38 [DEBUG]:     listen: 
+17:48:38 [DEBUG]:     debugger: none
+17:48:38 [DEBUG]:     add searching path:
+17:48:38 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:48:38.428Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:48:38.433Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:48:38.433Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:48:39.060Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:48:39.060Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:48:39.357Z - log: Debugger attached.
+
+2022-05-15T10:48:42.061Z - log: 17:48:41 [DEBUG]: In the constructor of HttpClient!
+17:48:41 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:48:42.123Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:48:42.162Z - log: 17:48:42 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:48:42 [INFO]: Device validator enabled.
+17:48:42 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:48:42.515Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:48:42.571Z - log: JS: Success to load scene
+
+2022-05-15T10:48:42.571Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:42.592Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:42.976Z - log: 17:48:42 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:48:42 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:48:42 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:48:42 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:48:42 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:48:42 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:48:42 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:48:42 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:48:42 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:48:42 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:48:42 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:48:42 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:48:42 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:48:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:48:42 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:48:42 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:48:42 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:48:42 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:48:42 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:48:42 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:48:42 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:48:42 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:48:42 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:48:42 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:48:42 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:42.992Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.009Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.025Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.042Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.059Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.075Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:43.092Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:48:50.500Z - log: XMLHttpRequest_finalize, 0x7ff210a3a4e0 ... 
+XMLHttpRequest_finalize, 0x7ff210a3f320 ... 
+XMLHttpRequest_finalize, 0x7ff210b573d0 ... 
+XMLHttpRequest_finalize, 0x7ff210a3fbb0 ... 
+XMLHttpRequest_finalize, 0x7ff210a3f060 ... 
+XMLHttpRequest_finalize, 0x7ff21085fa80 ... 
+XMLHttpRequest_finalize, 0x7ff20ef80430 ... 
+XMLHttpRequest_finalize, 0x7ff210a40600 ... 
+XMLHttpRequest_finalize, 0x7ff210a4f6b0 ... 
+XMLHttpRequest_finalize, 0x7ff210a5e810 ... 
+XMLHttpRequest_finalize, 0x7ff210b585d0 ... 
+XMLHttpRequest_finalize, 0x7ff210a5ea90 ... 
+XMLHttpRequest_finalize, 0x7ff20ef8f850 ... 
+XMLHttpRequest_finalize, 0x7ff2108b4720 ... 
+XMLHttpRequest_finalize, 0x7ff20ef9e7f0 ... 
+XMLHttpRequest_finalize, 0x7ff210b3f320 ... 
+XMLHttpRequest_finalize, 0x7ff2108a2d70 ... 
+XMLHttpRequest_finalize, 0x7ff2108a3440 ... 
+XMLHttpRequest_finalize, 0x7ff2108a3b10 ... 
+XMLHttpRequest_finalize, 0x7ff210a33a80 ... 
+XMLHttpRequest_finalize, 0x7ff210819fb0 ... 
+XMLHttpRequest_finalize, 0x7ff210b31a60 ... 
+
+2022-05-15T10:49:02.686Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:49:02.698Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:49:02.698Z - log: GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:49:02.706Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:49:02.710Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:49:02.718Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:49:11.814Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T10:49:11.816Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T10:49:11.817Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T10:49:11.817Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T10:49:11.819Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T10:49:11.819Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Bush" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Bush" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T10:49:11.849Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-05-15T10:49:11.866Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-05-15T10:49:54.558Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T10:49:54.559Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T10:49:54.564Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T10:51:26.884Z - log: 17:51:26 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+17:51:26 [DEBUG]: FRAME SCALE = 1.00
+17:51:26 [DEBUG]: Project Config:
+17:51:26 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+17:51:26 [DEBUG]:     writable path: $(PROJDIR)/
+17:51:26 [DEBUG]:     script file: $(PROJDIR)/main.js
+17:51:26 [DEBUG]:     frame size: 667 x 375
+17:51:26 [DEBUG]:     frame scale: 1.00
+17:51:26 [DEBUG]:     show console: NO
+17:51:26 [DEBUG]:     write debug log: NO ()
+17:51:26 [DEBUG]:     listen: 
+17:51:26 [DEBUG]:     debugger: none
+17:51:26 [DEBUG]:     add searching path:
+17:51:26 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T10:51:26.924Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T10:51:26.934Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T10:51:26.935Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T10:51:27.352Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T10:51:27.353Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T10:51:27.900Z - log: Debugger attached.
+
+2022-05-15T10:51:30.268Z - log: 17:51:29 [DEBUG]: In the constructor of HttpClient!
+17:51:29 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T10:51:30.424Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T10:51:30.521Z - log: 17:51:30 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+17:51:30 [INFO]: Device validator enabled.
+17:51:30 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T10:51:30.774Z - log: JS: [ERROR]: Can not find class 'b7e41ZzFRNKfKtAik4t09jR'
+
+2022-05-15T10:51:30.927Z - error: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T10:51:30.972Z - log: JS: [ERROR]: Sorry, the component of 'Mouse-001' which with an index of 0 is corrupted! It has been removed.
+
+2022-05-15T10:51:30.973Z - log: JS: Corrupted component value: null
+
+2022-05-15T10:51:31.012Z - log: JS: Success to load scene
+
+2022-05-15T10:51:31.014Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:31.056Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:31.768Z - log: 17:51:31 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+17:51:31 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+17:51:31 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+17:51:31 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+17:51:31 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+17:51:31 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+17:51:31 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+17:51:31 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+17:51:31 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+17:51:31 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+17:51:31 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+17:51:31 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+17:51:31 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+17:51:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+17:51:31 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+17:51:31 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+17:51:31 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+17:51:31 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+17:51:31 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+17:51:31 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+17:51:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+17:51:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+17:51:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+17:51:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+17:51:31 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:31.778Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:31.821Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:31.830Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T10:51:38.656Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:38.657Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:51:38.688Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:38.689Z - log: JS: The space bar has been released
+
+2022-05-15T10:51:40.528Z - log: XMLHttpRequest_finalize, 0x7fc0c9b04780 ... 
+XMLHttpRequest_finalize, 0x7fc0c9b04bd0 ... 
+XMLHttpRequest_finalize, 0x7fc0c9b04e50 ... 
+XMLHttpRequest_finalize, 0x7fc0c997ed00 ... 
+XMLHttpRequest_finalize, 0x7fc0c984d240 ... 
+XMLHttpRequest_finalize, 0x7fc0c9aa17f0 ... 
+XMLHttpRequest_finalize, 0x7fc0c9989fb0 ... 
+XMLHttpRequest_finalize, 0x7fc0c7f30d30 ... 
+XMLHttpRequest_finalize, 0x7fc0c7f47e40 ... 
+XMLHttpRequest_finalize, 0x7fc0c7f52c80 ... 
+XMLHttpRequest_finalize, 0x7fc0c998a390 ... 
+XMLHttpRequest_finalize, 0x7fc0c9999700 ... 
+XMLHttpRequest_finalize, 0x7fc0c7f61d70 ... 
+XMLHttpRequest_finalize, 0x7fc0c985b6e0 ... 
+XMLHttpRequest_finalize, 0x7fc0c7f62260 ... 
+XMLHttpRequest_finalize, 0x7fc0c9a7a2d0 ... 
+XMLHttpRequest_finalize, 0x7fc0c9a7ab10 ... 
+XMLHttpRequest_finalize, 0x7fc0c9919430 ... 
+XMLHttpRequest_finalize, 0x7fc0c99552c0 ... 
+XMLHttpRequest_finalize, 0x7fc0c9c05af0 ... 
+XMLHttpRequest_finalize, 0x7fc0c9a14240 ... 
+XMLHttpRequest_finalize, 0x7fc0c9833130 ... 
+
+2022-05-15T10:51:42.605Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:42.606Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:51:42.655Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:42.656Z - log: JS: The space bar has been released
+
+2022-05-15T10:51:45.205Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:45.206Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+JS: hey guys, the back space has been pressed
+
+2022-05-15T10:51:45.255Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:45.256Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+JS: The backspace has been released
+
+2022-05-15T10:51:50.552Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:50.552Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T10:51:53.422Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:33.806Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.304Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.389Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.472Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.555Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.639Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.722Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.805Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.889Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:52:34.922Z - log: JS: The space bar has been released
+
+2022-05-15T10:52:37.322Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:37.822Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:37.904Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:37.989Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.072Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.155Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.239Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.322Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.405Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.489Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.572Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.655Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.739Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.822Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.905Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:38.989Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:52:39.072Z - log: JS: The backspace has been released
+
+2022-05-15T10:52:40.489Z - log: JS: hey guys, the back space has been pressed
+
+2022-05-15T10:53:22.356Z - log: JS: The a button has been released.
+
+2022-05-15T10:54:03.073Z - log: JS: The a button has been released.
+
+2022-05-15T10:54:04.523Z - log: JS: The a button has been released.
+
+2022-05-15T10:54:06.122Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:06.623Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:06.705Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:06.789Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:06.873Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:06.956Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.038Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.123Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.206Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.289Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.372Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.456Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.539Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.622Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.706Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.789Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.873Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:07.956Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:08.038Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T10:54:08.089Z - log: JS: The space bar has been released
+
+2022-05-15T10:54:36.385Z - log: ScriptEngine::cleanup begin ...
+
+2022-05-15T10:54:36.392Z - log: GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:54:36.436Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:54:36.458Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T10:54:36.487Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T10:54:36.514Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T10:58:30.205Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T10:58:30.206Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T10:58:30.216Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "scene2" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/scene2"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "scene2" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/scene2"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T10:59:23.198Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T10:59:23.198Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T10:59:23.205Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:02:38.546Z - log: 18:02:38 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+18:02:38 [DEBUG]: FRAME SCALE = 1.00
+18:02:38 [DEBUG]: Project Config:
+18:02:38 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+18:02:38 [DEBUG]:     writable path: $(PROJDIR)/
+18:02:38 [DEBUG]:     script file: $(PROJDIR)/main.js
+18:02:38 [DEBUG]:     frame size: 667 x 375
+18:02:38 [DEBUG]:     frame scale: 1.00
+18:02:38 [DEBUG]:     show console: NO
+18:02:38 [DEBUG]:     write debug log: NO ()
+18:02:38 [DEBUG]:     listen: 
+18:02:38 [DEBUG]:     debugger: none
+18:02:38 [DEBUG]:     add searching path:
+18:02:38 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T11:02:38.594Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T11:02:38.604Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T11:02:38.605Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T11:02:38.921Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T11:02:38.922Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T11:02:39.306Z - log: Debugger attached.
+
+2022-05-15T11:02:42.247Z - log: 18:02:41 [DEBUG]: In the constructor of HttpClient!
+18:02:41 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T11:02:42.310Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T11:02:42.348Z - log: 18:02:42 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+18:02:42 [INFO]: Device validator enabled.
+18:02:42 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T11:02:42.552Z - log: XMLHttpRequest_finalize, 0x7f911208aa40 ... 
+XMLHttpRequest_finalize, 0x7f9112090980 ... 
+XMLHttpRequest_finalize, 0x7f9112091050 ... 
+XMLHttpRequest_finalize, 0x7f9112091720 ... 
+XMLHttpRequest_finalize, 0x7f91120924c0 ... 
+XMLHttpRequest_finalize, 0x7f9112027cd0 ... 
+XMLHttpRequest_finalize, 0x7f9112111610 ... 
+
+2022-05-15T11:02:42.634Z - error: libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T11:02:42.672Z - log: JS: Success to load scene
+
+2022-05-15T11:02:48.130Z - log: 18:02:42 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+18:02:42 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+18:02:42 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+18:02:42 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+18:02:42 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+18:02:42 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+18:02:42 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+18:02:42 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+18:02:42 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+18:02:42 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+18:02:42 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+18:02:42 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+18:02:42 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+18:02:42 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:02:42 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+18:02:42 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+18:02:42 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+18:02:42 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+18:02:43 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+18:02:43 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:02:43 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+18:02:43 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+18:02:43 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+18:02:43 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+18:02:43 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 605, all objects: 899
+
+2022-05-15T11:02:48.145Z - log: XMLHttpRequest_finalize, 0x7f9112122a20 ... 
+XMLHttpRequest_finalize, 0x7f9112027cd0 ... 
+XMLHttpRequest_finalize, 0x7f911222f0a0 ... 
+XMLHttpRequest_finalize, 0x7f91120b5060 ... 
+XMLHttpRequest_finalize, 0x7f9112111610 ... 
+XMLHttpRequest_finalize, 0x7f91107a1420 ... 
+XMLHttpRequest_finalize, 0x7f9112091df0 ... 
+
+2022-05-15T11:02:48.146Z - log: GC end ..., (js->native map) size: 588, all objects: 889
+GC begin ..., (js->native map) size: 588, all objects: 882
+
+2022-05-15T11:02:48.154Z - log: GC end ..., (js->native map) size: 588, all objects: 882
+
+2022-05-15T11:02:48.158Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T11:02:48.164Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T11:03:23.689Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T11:03:23.690Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T11:03:23.692Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:03:41.562Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T11:03:41.562Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T11:03:41.564Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:03:56.947Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T11:03:56.948Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T11:03:56.949Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:04:20.579Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T11:04:20.579Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T11:04:20.582Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:04:51.052Z - log: 18:04:50 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+18:04:50 [DEBUG]: FRAME SCALE = 1.00
+18:04:50 [DEBUG]: Project Config:
+18:04:50 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+18:04:50 [DEBUG]:     writable path: $(PROJDIR)/
+18:04:50 [DEBUG]:     script file: $(PROJDIR)/main.js
+18:04:50 [DEBUG]:     frame size: 667 x 375
+18:04:50 [DEBUG]:     frame scale: 1.00
+18:04:50 [DEBUG]:     show console: NO
+18:04:50 [DEBUG]:     write debug log: NO ()
+18:04:50 [DEBUG]:     listen: 
+18:04:50 [DEBUG]:     debugger: none
+18:04:50 [DEBUG]:     add searching path:
+18:04:50 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T11:04:51.100Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T11:04:51.104Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T11:04:51.105Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+
+2022-05-15T11:04:51.105Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T11:04:51.589Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T11:04:51.589Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T11:04:51.974Z - log: Debugger attached.
+
+2022-05-15T11:04:54.849Z - log: 18:04:54 [DEBUG]: In the constructor of HttpClient!
+18:04:54 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T11:04:54.911Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T11:04:54.948Z - log: 18:04:54 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+18:04:54 [INFO]: Device validator enabled.
+18:04:54 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T11:04:55.132Z - log: XMLHttpRequest_finalize, 0x7f7a37163630 ... 
+XMLHttpRequest_finalize, 0x7f7a37045ba0 ... 
+XMLHttpRequest_finalize, 0x7f7a37046270 ... 
+XMLHttpRequest_finalize, 0x7f7a37046940 ... 
+XMLHttpRequest_finalize, 0x7f7a37047010 ... 
+XMLHttpRequest_finalize, 0x7f7a370476e0 ... 
+XMLHttpRequest_finalize, 0x7f7a35f11570 ... 
+XMLHttpRequest_finalize, 0x7f7a37218ba0 ... 
+
+2022-05-15T11:04:55.211Z - error: libpng warning: iCCP: known incorrect sRGB profile
+
+2022-05-15T11:04:55.266Z - log: JS: Success to load scene
+
+2022-05-15T11:05:16.997Z - log: 18:04:55 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+18:04:55 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+18:04:55 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+18:04:55 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+18:04:55 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+18:04:55 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+18:04:55 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+18:04:55 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+18:04:55 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+18:04:55 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+18:04:55 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+18:04:55 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+18:04:55 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+18:04:55 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:04:55 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+18:04:55 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+18:04:55 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+18:04:55 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+18:04:55 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+18:04:55 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:04:55 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+18:04:55 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+18:04:55 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+18:04:55 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+18:04:55 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 605, all objects: 899
+
+2022-05-15T11:05:17.013Z - log: XMLHttpRequest_finalize, 0x7f7a3705ca60 ... 
+XMLHttpRequest_finalize, 0x7f7a35f11570 ... 
+XMLHttpRequest_finalize, 0x7f7a35f5b4c0 ... 
+XMLHttpRequest_finalize, 0x7f7a37218ba0 ... 
+XMLHttpRequest_finalize, 0x7f7a35f73a00 ... 
+XMLHttpRequest_finalize, 0x7f7a37047010 ... 
+
+2022-05-15T11:05:17.013Z - log: XMLHttpRequest_finalize, 0x7f7a37047db0 ... 
+
+2022-05-15T11:05:17.014Z - log: GC end ..., (js->native map) size: 588, all objects: 889
+GC begin ..., (js->native map) size: 588, all objects: 882
+
+2022-05-15T11:05:17.022Z - log: GC end ..., (js->native map) size: 588, all objects: 882
+
+2022-05-15T11:05:17.027Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T11:05:17.037Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T11:05:17.866Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T11:05:17.867Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T11:07:34.853Z - warn: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jRError: [Scene] Missing class: b7e41ZzFRNKfKtAik4t09jR
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-05-15T11:07:34.853Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-05-15T11:07:34.854Z - error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+Error: [Scene] Script "b7e41ZzFRNKfKtAik4t09jR" attached to "Mouse-001" in scene "NewScene" is missing or invalid. Detailed information:
+Node path: "Canvas/Bush/Mouse-001"
+Asset url: "db://assets/NewScene"
+Script UUID: "b7e41673-1513-4a7c-ab40-8a4e2dd3d8d1"
+Class ID: "b7e41ZzFRNKfKtAik4t09jR"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-05-15T11:07:48.780Z - log: 18:07:48 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 777.00
+18:07:48 [DEBUG]: FRAME SCALE = 1.00
+18:07:48 [DEBUG]: Project Config:
+18:07:48 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+18:07:48 [DEBUG]:     writable path: $(PROJDIR)/
+18:07:48 [DEBUG]:     script file: $(PROJDIR)/main.js
+18:07:48 [DEBUG]:     frame size: 667 x 375
+18:07:48 [DEBUG]:     frame scale: 1.00
+18:07:48 [DEBUG]:     show console: NO
+18:07:48 [DEBUG]:     write debug log: NO ()
+18:07:48 [DEBUG]:     listen: 
+18:07:48 [DEBUG]:     debugger: none
+18:07:48 [DEBUG]:     add searching path:
+18:07:48 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T11:07:48.822Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T11:07:48.827Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+
+2022-05-15T11:07:48.828Z - log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T11:08:25.168Z - log: 18:08:25 [DEBUG]: WORKAREA WIDTH 1440.00, HEIGHT 781.00
+18:08:25 [DEBUG]: FRAME SCALE = 1.00
+18:08:25 [DEBUG]: Project Config:
+18:08:25 [DEBUG]:     project dir: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+18:08:25 [DEBUG]:     writable path: $(PROJDIR)/
+18:08:25 [DEBUG]:     script file: $(PROJDIR)/main.js
+18:08:25 [DEBUG]:     frame size: 667 x 375
+18:08:25 [DEBUG]:     frame scale: 1.00
+18:08:25 [DEBUG]:     show console: NO
+18:08:25 [DEBUG]:     write debug log: NO ()
+18:08:25 [DEBUG]:     listen: 
+18:08:25 [DEBUG]:     debugger: none
+18:08:25 [DEBUG]:     add searching path:
+18:08:25 [DEBUG]: 
+
+
+Initializing V8, version: 9.1.269
+
+2022-05-15T11:08:25.170Z - log: libuv version: 1.23.1-dev
+
+2022-05-15T11:08:25.171Z - log: Number of interfaces: 14
+Debugger listening..., visit [
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.169.27:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2022-05-15T11:08:27.071Z - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2022-05-15T11:08:27.071Z - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2022-05-15T11:08:27.429Z - log: Debugger attached.
+
+2022-05-15T11:08:30.023Z - log: 18:08:29 [DEBUG]: In the constructor of HttpClient!
+18:08:29 [DEBUG]: iShow!
+JS: 'cc.ParticleSystem2D.color' hides inherited property 'cc.Renderable2D.color'. To make the current property override that implementation, add the `override: true` attribute please.
+
+2022-05-15T11:08:30.080Z - log: JS: [WARN]: Read json failed: path: /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+
+2022-05-15T11:08:30.124Z - log: 18:08:30 [INFO]: Metal Feature Set: MTLFeatureSet_macOS_GPUFamily2_v1
+18:08:30 [INFO]: Device validator enabled.
+18:08:30 [INFO]: Device thread detached.
+JS: Cocos Creator v3.5.0
+
+2022-05-15T11:08:30.387Z - log: JS: [ERROR]: Can not find class 'b7e41ZzFRNKfKtAik4t09jR'
+
+2022-05-15T11:08:30.505Z - error: libpng warning: iCCP: known incorrect sRGB profilelibpng warning: iCCP: known incorrect sRGB profile
+
+
+2022-05-15T11:08:30.568Z - log: JS: [ERROR]: Sorry, the component of 'Mouse-001' which with an index of 0 is corrupted! It has been removed.
+JS: Corrupted component value: null
+
+2022-05-15T11:08:30.598Z - log: JS: Success to load scene
+
+2022-05-15T11:08:30.599Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:30.631Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.565Z - log: 18:08:30 [INFO]: geometry-renderer|line-vs:vert|line-fs:front compile succeed.
+18:08:30 [INFO]: geometry-renderer|line-vs:vert|line-fs:back compile succeed.
+18:08:30 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:front compile succeed.
+18:08:30 [INFO]: geometry-renderer|dashed-line-vs:vert|dashed-line-fs:back compile succeed.
+18:08:30 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:front compile succeed.
+18:08:30 [INFO]: geometry-renderer|triangle-vs:vert|triangle-fs:back compile succeed.
+18:08:30 [INFO]: occlusion-query|occlusion-query-vs:vert|occlusion-query-fs:frag compile succeed.
+18:08:30 [INFO]: profiler|profiler-vs:vert|profiler-fs:frag compile succeed.
+18:08:30 [INFO]: standard|standard-vs|standard-fs|CC_USE_HDR1 compile succeed.
+18:08:30 [INFO]: standard|standard-vs|standard-fs|CC_FORWARD_ADD1|CC_USE_HDR1 compile succeed.
+18:08:30 [INFO]: standard|shadow-caster-vs:vert|shadow-caster-fs:frag compile succeed.
+18:08:30 [INFO]: unlit|unlit-vs:vert|unlit-fs:frag|CC_USE_HDR1 compile succeed.
+18:08:31 [INFO]: clear-stencil|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1 compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_ALPHA_TEST1|USE_TEXTURE1 compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1 compile succeed.
+18:08:31 [INFO]: sprite|sprite-vs:vert|sprite-fs:frag|CC_USE_EMBEDDED_ALPHA1|USE_TEXTURE1|IS_GRAY1 compile succeed.
+18:08:31 [INFO]: graphics|vs:vert|fs:frag compile succeed.
+18:08:31 [INFO]: particle|particle-vs-legacy:lpvs_main|tinted-fs:add compile succeed.
+18:08:31 [INFO]: particle-gpu|particle-vs-gpu:gpvs_main|tinted-fs:add compile succeed.
+18:08:31 [INFO]: particle-trail|particle-trail:vs_main|tinted-fs:add compile succeed.
+18:08:31 [INFO]: billboard|vert:vs_main|tinted-fs:add compile succeed.
+18:08:31 [INFO]: spine|sprite-vs:vert|sprite-fs:frag compile succeed.
+18:08:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag compile succeed.
+18:08:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|CC_RECEIVE_SHADOW1 compile succeed.
+18:08:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1 compile succeed.
+18:08:31 [INFO]: planar-shadow|planar-shadow-vs:vert|planar-shadow-fs:frag|USE_INSTANCING1|CC_RECEIVE_SHADOW1 compile succeed.
+18:08:31 [INFO]: skybox|sky-vs:vert|sky-fs:frag|CC_USE_HDR1 compile succeed.
+JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.583Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.599Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.615Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.631Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.648Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.665Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:31.682Z - log: JS: [WARN]: 'Node.width' is deprecated, please use 'node.getComponent(UITransform).width' instead. 
+
+2022-05-15T11:08:34.665Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:34.666Z - log: JS: hey guys, the space bar has been pressed
+JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:34.765Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:34.765Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:35.169Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:35.169Z - log: JS: hey guys, the space bar has been pressed
+JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:35.248Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:35.254Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:35.782Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:35.782Z - log: JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+JS: [WARN]: 'macro.KEY' is deprecated. (please use KeyCode instead)
+
+2022-05-15T11:08:38.431Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:38.481Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:38.581Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:38.631Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:38.732Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:38.782Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:38.865Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:38.915Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:38.998Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:39.065Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:39.131Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:39.181Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:39.581Z - log: XMLHttpRequest_finalize, 0x7fdd9ec59f90 ... 
+XMLHttpRequest_finalize, 0x7fdd9d772b90 ... 
+XMLHttpRequest_finalize, 0x7fdd9e8816e0 ... 
+XMLHttpRequest_finalize, 0x7fdd9d773260 ... 
+XMLHttpRequest_finalize, 0x7fdd9e881420 ... 
+XMLHttpRequest_finalize, 0x7fdd9ec65040 ... 
+XMLHttpRequest_finalize, 0x7fdd9d7739d0 ... 
+XMLHttpRequest_finalize, 0x7fdd9ec740b0 ... 
+XMLHttpRequest_finalize, 0x7fdd9ec82ff0 ... 
+XMLHttpRequest_finalize, 0x7fdd9e882ac0 ... 
+XMLHttpRequest_finalize, 0x7fdd9d782b50 ... 
+XMLHttpRequest_finalize, 0x7fdd9d791c40 ... 
+XMLHttpRequest_finalize, 0x7fdd9e88ddc0 ... 
+XMLHttpRequest_finalize, 0x7fdd9d7a0d00 ... 
+XMLHttpRequest_finalize, 0x7fdd9d7828a0 ... 
+XMLHttpRequest_finalize, 0x7fdd9eb50400 ... 
+XMLHttpRequest_finalize, 0x7fdd9e8737a0 ... 
+XMLHttpRequest_finalize, 0x7fdd9e873e70 ... 
+XMLHttpRequest_finalize, 0x7fdd9e874540 ... 
+XMLHttpRequest_finalize, 0x7fdd9e874c10 ... 
+XMLHttpRequest_finalize, 0x7fdd9e8752e0 ... 
+XMLHttpRequest_finalize, 0x7fdd9e8759b0 ... 
+XMLHttpRequest_finalize, 0x7fdd9e876080 ... 
+XMLHttpRequest_finalize, 0x7fdd9ec23160 ... 
+XMLHttpRequest_finalize, 0x7fdd9e828e50 ... 
+
+2022-05-15T11:08:44.964Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:45.131Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:45.815Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:45.881Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:45.965Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.015Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.098Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.148Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.431Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.448Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.531Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.581Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.665Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.715Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.781Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.831Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:46.915Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:46.964Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:47.098Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:47.181Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:47.248Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:47.265Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:47.331Z - log: JS: hey guys, the space bar has been pressed
+
+2022-05-15T11:08:47.398Z - log: JS: The space bar has been released
+
+2022-05-15T11:08:53.469Z - log: ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T11:08:53.480Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T11:08:53.480Z - log: GC begin ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T11:08:53.489Z - log: GC end ..., (js->native map) size: 625, all objects: 919
+
+2022-05-15T11:08:53.494Z - log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2022-05-15T11:08:53.500Z - log: ScriptEngine::cleanup end ...
+
+2022-05-15T11:17:20.760Z - warn: Metrics: no valid info
+2022-05-15T11:17:20.955Z - error: Cannot read property 'webContents' of nullTypeError: Cannot read property 'webContents' of null
+    at Object.sendToWin (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-base-ipc/dist/browser.ccc:1:1611)
+    at Object.sendToWin (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-base-ipc/dist/index.js:1:355)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/lib/browser.ccc:1:1353
+    at new Promise (<anonymous>)
+    at Worker.send (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/lib/browser.ccc:1:1329)
+    at ProgrammingWorker.request (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/worker/browser.ccc:1:672)
+    at Package.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/worker/browser.ccc:1:1508)
+    at Package.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:4126)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/index.js:1:2922
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-base-ipc/dist/sender.ccc:1:1789

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "play",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 79,
+      "height": 35
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 79,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "96b67358-8019-41b5-86de-c5a950fecb15@6c48a",
+    "packable": true
+  }
+}
